@@ -74,3 +74,8 @@ To run this project, you will need the following:
 - 📝 **Audio Transcription:** Encode your audio files, pass them to the model, and get a transcription as output.
 - 🔊 **Audio Generation:** Generate spoken responses by configuring the model with audio output capabilities.
 - 🔗 **Advanced Workflow:** Chain tasks together, combining transcription and tool usage in a seamless flow.
+
+## ☕ Support My Work
+If you found this project helpful and want to support my work, feel free to buy me a coffee! Your support helps me continue creating more tutorials, projects, and open-source contributions like this one. Every coffee is greatly appreciated! 🙌
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/anarojoecheburua)
+
