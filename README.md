@@ -16,14 +16,6 @@ You’ll find practical examples for:
 - 🛠️ **Tool binding**: Integrate external tools to extend the model’s functionality (e.g., fetching weather data).
 - 🔗 **Task chaining**: Automate workflows by chaining multiple tasks, combining audio and tool-based functionality.
 
-## 📂 Project Structure
-
-```
-├── OpenAI_gpt4o_audio_tutorial.ipynb    # Jupyter Notebook with the full tutorial
-├── README.md                            # Project description and setup guide
-├── requirements.txt                     # Project dependecies
-```
-
 ## ⚙️ Prerequisites
 
 To run this project, you will need the following:
