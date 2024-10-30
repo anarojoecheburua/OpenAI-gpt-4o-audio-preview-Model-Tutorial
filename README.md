@@ -39,13 +39,7 @@ To run this project, you will need the following:
    source env/bin/activate  # On Windows use: .\env\Scripts\activate
    ```
 
-3. **Install the required dependencies:**
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-4. **Set your OpenAI API Key:**
+3. **Set your OpenAI API Key:**
 
    You can set your OpenAI API key as an environment variable:
 
@@ -55,7 +49,7 @@ To run this project, you will need the following:
 
    Alternatively, store your API key in a `.env` file and load it in the script.
 
-5. **Run the Jupyter Notebook:**
+4. **Run the Jupyter Notebook:**
 
    ```bash
    jupyter notebook OpenAI_gpt4o_audio_tutorial.ipynb
